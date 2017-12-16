@@ -22,7 +22,7 @@ include("config.php");
 					<div class='panel panel-primary'>
 						<div class='panel-heading'>Semua Data Petani</div>
 						<div class='panel-body'>
-							<a class='btn btn-primary' href='add_petani.php'><i class='fa fa-plus'></i> Tambah data petani</a>
+							<a class='btn btn-primary' href='add_petani.php'><i class='fa fa-plus'></i> Tambah Data Petani</a>
 							<p>
 							<table class="table table-hover table-bordered">
 							  <thead>
