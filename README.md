@@ -12,12 +12,12 @@ Aplikasi crud sederhana dengan studi kasus penjualan kelapa sawit dengan entitas
 
 # screenshot
 
-![alt text](https://imgur.com/IzIKn9q)
+![alt text](https://i.imgur.com/IzIKn9q.png)
 
-![alt text](https://imgur.com/bIpvgp9)
+![alt text](https://i.imgur.com/bIpvgp9.png)
 
-![alt text](https://imgur.com/9ZgvQ9n)
+![alt text](https://i.imgur.com/9ZgvQ9n.png)
 
-![alt text](https://imgur.com/jfG7Kis)
+![alt text](https://i.imgur.com/jfG7Kis.png)
 
-![alt text](https://imgur.com/X8QjjsS)
+![alt text](https://i.imgur.com/X8QjjsS.png)
